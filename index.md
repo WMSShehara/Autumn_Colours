@@ -29,5 +29,4 @@ As the chlorophyll breaks down and disappears, other pigments that were present 
 
 [Click here for more details](https://wowsciencefacts.com/science/science-autumn-colors/)
 
-> [!NOTE]
-> Don't share this page
+:maple_leaf: :maple_leaf: :maple_leaf: :maple_leaf:
