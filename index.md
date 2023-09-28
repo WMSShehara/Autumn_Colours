@@ -21,13 +21,13 @@ As the chlorophyll breaks down and disappears, other pigments that were present 
 ## Notable Trees with Vibrant Autumn Colors:
 
 - **Maples:** Maple trees, including sugar maples and red maples, are renowned for their brilliant red and orange leaves in the fall.
-- **Oak Trees:** Different oak species display various shades of red, brown, and russet during autumn.
-- **Sweetgum Trees:** Sweetgum trees feature a mix of red, orange, and purple leaves.
+* **Oak Trees:** Different oak species display various shades of red, brown, and russet during autumn.
++ **Sweetgum Trees:** Sweetgum trees feature a mix of red, orange, and purple leaves.
 - **Dogwood Trees:** Dogwoods showcase vibrant red leaves in the fall.
-- **Aspen and Birch Trees:** These trees often display bright yellow leaves during the autumn months.
+* **Aspen and Birch Trees:** These trees often display bright yellow leaves during the autumn months.
 
 
 [Click here for more details](https://wowsciencefacts.com/science/science-autumn-colors/)
 
 > [!NOTE]
-> Don't share this link
+> Don't share this page
